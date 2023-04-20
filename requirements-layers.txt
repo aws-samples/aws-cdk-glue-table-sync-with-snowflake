@@ -1,0 +1,7 @@
+dataclasses
+requests
+pyjwt
+cryptography
+cffi
+attrs
+jinja2

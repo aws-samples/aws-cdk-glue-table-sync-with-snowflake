@@ -1,0 +1,5 @@
+
+.DS_Store
+tests/__init__.py
+tests/unit/__init__.py
+tests/unit/test_gdc_snowflake_catalog_sync_stack.py
