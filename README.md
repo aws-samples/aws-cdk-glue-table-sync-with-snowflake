@@ -171,6 +171,7 @@ Follow the instruction to setup automatic refresh on external table metadata usi
 2. Refreshing External Tables Automatically for Amazon S3 is limited to Snowflake accounts on AWS.
 3. When data is loaded to S3 before setting up automatic refresh, you will need to manually refresh the external table in Snowflake. 
 4. Table format other than allowed file formats for Snowflake will not be synced.
+5. Tables having user defined non-hive style format are not supported.
 
 Refer to Snowflake and AWS documentation for other limitations.
 
