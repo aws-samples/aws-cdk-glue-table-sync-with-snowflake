@@ -4,4 +4,5 @@ pyjwt
 cryptography
 cffi
 attrs
+attr
 jinja2
